@@ -1,3 +1,4 @@
+# MainApp
 The main prominence algorithm. It is able to compute mountain prominence starting from SRTM data.
 
 ```
