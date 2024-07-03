@@ -6,7 +6,7 @@ import simplekml
 THRESHOLD = 0.0005
 INPUT_FILE = './results.txt'
 NAME_FILE = './names.txt'
-PROM_THRESHOLD = 0
+PROM_THRESHOLD = 600
 
 
 def get_parameters():
