@@ -73,7 +73,7 @@ int parseArguments(int argc, char **argv) {
         MAX_LON = 29;
         EXPORT = true;
         NR_THREADS = 5;
-        THRESHOLD = 0;
+        THRESHOLD = 500;
         DATA_TYPE = SRTM90;
         INPUT_DIRECTORY = "../../data/Romania/";
         OUTPUT_DIRECTORY = "../../data/RomaniaANS/";
